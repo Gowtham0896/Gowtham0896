@@ -1,6 +1,6 @@
->> whoami - Gowtham Chennavaram
->> cd portfolio
->> cat portfolio.html 
+**>>** whoami - Gowtham Chennavaram  
+**>>** cd portfolio  
+**>>** cat portfolio.html   
 ---------------------------------------------
 📍 **Location**: Newark, Delaware, USA  (Open for Relocation)  
 💼 **Cybersecurity Enthusiast | Penetration Tester | SOC Analyst | Incident Responder | CTF Player**  
